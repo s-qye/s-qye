@@ -27,4 +27,4 @@ When I'm not coding, I'm usually playing piano/guitar, doing fiber arts, or play
 
 ## Get in Touch
 - Email: [sophiaye@bu.edu](mailto:sophiaye@bu.edu)
-- LinkedIn: [linkedin.com/in/sophia-ye-6b3ba61b5](https://www.linkedin.com/in/sophia-ye-6b3ba61b5/)
+- LinkedIn: [linkedin.com/in/sophia-ye-6b3ba61b5](https://www.linkedin.com/in/sophiaqye/)
