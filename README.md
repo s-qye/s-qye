@@ -2,7 +2,7 @@
 Boston, MA · Data Science @ Boston University · AI/ML Fellow @ Break Through Tech (Cornell Tech)
 
 ## About Me
-I'm a Data Science student at BU (Class of 2029) minoring in Statistics and Environmental Analysis & Policy. I'm interested in applying ML to human-centeter problems from civic data to environmental equity. Currently an AI Fellow at Break Through Tech, set to build AI/ML solutions for industry partners. I previously worked on LLN-powered clinical tools at Citadel Precision Medicine. I'm working toward a career in DS / ML engineering, ideally at the intersection of tech and social impact.
+I'm a Data Science student at BU (Class of 2029) minoring in Statistics and Environmental Analysis & Policy. I'm interested in applying ML to human-center problems from civic data to environmental equity. Currently an AI Fellow at Break Through Tech, set to build AI/ML solutions for industry partners. I previously worked on LLN-powered clinical tools at Citadel Precision Medicine. I'm working toward a career in DS / ML engineering, ideally at the intersection of tech and social impact.
 
 ## Tech Stack
 **Languages:** Python, Java, JavaScript, Rust, R, SQL, HTML/CSS
