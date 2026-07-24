@@ -6,6 +6,7 @@ I'm a Data Science student at BU (Class of 2029) minoring in Statistics and Envi
 
 ## Tech Stack
 **Languages:** Python, Java, JavaScript, Rust, R, SQL, HTML/CSS
+
 **Libraries & Tools:** scikit-learn, pandas, NumPy, LangGraph, OopenAI API, Streamlit, Leaflet.js, Git/GitHub
 
 ## Key Projects
